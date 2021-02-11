@@ -1,6 +1,6 @@
 # improved-flaskr
 Blog on flask based on official tutorial with some features
-## Instalation
+## Installation
 This project needs Flask
 ```
 pip3 install Flask
